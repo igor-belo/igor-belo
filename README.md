@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá! 
 
-<!--
-**igor-belo/igor-belo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-Here are some ideas to get you started:
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```kotlin
+object **Igor** {
+ val name = "Igor Belo"
+ val acknowledgements = "back-end"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Python", "Django", "SQL", "HTML", "CSS") 
+
+}
+```
 -->
