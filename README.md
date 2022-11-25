@@ -1,17 +1,17 @@
-## Olá! 
+```js
+import Desenvolvedor from 'igor_belo';
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+class SobreMim extends Desenvolvedor {
+  nome     = 'Igor Belo';
+  area    = 'back-end';
+}
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-object **Igor** {
- val name = "Igor Belo"
- val acknowledgements = "back-end"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Python", "Django", "SQL", "HTML", "CSS") 
-
+class Skills extends Desenvolvedor {
+  linguagens  = ['Python, HTML, CSS, SQL'];
+  frameworks = ['Django'];
 }
 ```
--->
+<div>
+ <a href="https://github.com/igor-belo">
+ <img height=180 src=https://github-readme-stats.vercel.app/api?username=igor-belo&theme=dark&show_icons=true/>
+ <img height=180 src=https://github-readme-stats.vercel.app/api/top-langs/?username=igor-belo&hide=html&layout=compact&theme=dark/>
