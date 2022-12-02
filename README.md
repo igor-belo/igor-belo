@@ -13,8 +13,8 @@ class Skills extends Desenvolvedor {
 ```
 <div>
  <a href="https://github.com/igor-belo">
- <img height=170 src="https://github-readme-stats.vercel.app/api?username=igor-belo&theme=dark&show_icons=true"/>
- <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-belo&hide=html&layout=compact&theme=dark"/>
+ <img height=180 src="https://github-readme-stats.vercel.app/api?username=igor-belo&theme=dark&show_icons=true">
+ <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-belo&hide=html&layout=compact&theme=dark"/>
 </div>
   
 
