@@ -8,7 +8,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens  = ['Python, HTML, CSS, SQL'];
-  frameworks = ['Django'];
+  frameworks = ['Django, Fastapi, Flask'];
 }
 ```
 <div>
