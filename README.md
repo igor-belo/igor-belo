@@ -1,24 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=0%:306998,100%:FFE873&text=Igor%20Belo&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontSize=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=0%:306998,100%:FFE873&text=Igor%20Belo&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontSize=50"/>
 
 &nbsp;&nbsp;&nbsp;
-
-![snake gif](https://github.com/igor-belo/igor-belo/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/igor-belo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
   <a href="https://www.instagram.com/igor_belo.py/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:igorbello170@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/igorbelo2" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igor-belo&show_icons=true&count_private=true&hide_border=true&title_color=FFE873&icon_color=4B8BBE&text_color=c9d1d9&bg_color=0d1117" alt="Igor Belo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-belo&layout=compact&hide_border=true&title_color=FFE873&text_color=4B8BBE&bg_color=0d1117" />
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+![snake gif](https://github.com/igor-belo/igor-belo/blob/output/github-contribution-grid-snake-dark.svg)
+
 &nbsp;&nbsp;&nbsp;
+
 
 ## My Skills
 
