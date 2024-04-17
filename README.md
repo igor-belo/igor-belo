@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-![snake gif](https://github.com/igor-belo/igor-belo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/igor-belo/igor-belo/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/igor-belo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
