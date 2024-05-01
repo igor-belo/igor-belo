@@ -9,9 +9,6 @@
   <a href="https://www.behance.net/igorbelo2" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"  target="_blank"></a> 
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-![snake gif](https://github.com/igor-belo/igor-belo/blob/output/github-contribution-grid-snake.svg)
 
 &nbsp;&nbsp;&nbsp;
 
