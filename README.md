@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-![snake gif](https://github.com/igor-belo/igor-belo/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/igor-belo/igor-belo/blob/output/github-contribution-grid-snake.svg)
 
 &nbsp;&nbsp;&nbsp;
 
