@@ -3,9 +3,9 @@
 
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Em constante aprendizado com foco em Python, Django, Flask, Delphi, C# e .NET
-- 🧠 Apaixonado por tecnologia e por entender como as coisas funcionam por trás dos sistemas
-- 🚀 Interessado em desenvolvimento web, APIs e soluções inteligentes
-- 🎮 Explorando também o universo dos jogos e interfaces interativas
+- 🧠 Apaixonado por tecnologia e por entender como as coisas funcionam
+- 🚀 Interessado em desenvolvimento Web, APIs e soluções inteligentes
+- 🎮 Explorando também o universo de desenvolvimento de jogos com Unity
 - 💡 Movido por desafios e pela vontade de evoluir constantemente
 - 🤝 Aberto a conexões, trocas de conhecimento e oportunidades no mundo da tecnologia
 
