@@ -1,6 +1,6 @@
-### 🌐 Escolha seu idioma / Choose your language
+#### 🌐 Escolha seu idioma / Choose your language
 
-- 🇧🇷 [Versão em Português](README.pt-br.md)
+- 🇧🇷 [Versão em Português](README.md)
 - 🇺🇸 [English Version](README.en.md)
 
 ---
